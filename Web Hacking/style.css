@@ -1,0 +1,49 @@
+.main-content{
+    margin: 30px;
+    padding: 3px;
+    background: red;
+}
+
+p, h4, h1{
+    margin: 20px;
+    font-family: Sans-Serif;
+}
+
+.content{
+    background: white;
+    margin: 30px;
+    padding: 2px;
+    border-radius: 6px;
+}
+
+#gov, button{
+    max-width: 40%;
+    max-height: auto;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+/* (2/4)osec{g0tt4_fi */
+
+
+h1{
+    color: white;
+    margin: 20px;
+    padding: 3px;
+}
+
+button{
+    background-color: maroon;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.invisible{
+    visibility: hidden;
+}   
+
+
+/* (4/4) 11}*/
